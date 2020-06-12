@@ -12,13 +12,13 @@ To use this plugin requires the Uconomy, Advanced Zones, and a workshop UI mod
 * Workshop UI2: [Reward UI]: https://steamcommunity.com/sharedfiles/filedetails/?id=1768031090
 
 ## Configuration AdvancedZones
-* *MaxPolice **(Max police for rob this theft)**
-* *Reward **(Reward, if the type of rob is money)**
-* *Time **(Time for get the reward after theft)**
-* *Cooldown **(Cooldown for rob again)**
-* *TitletUI **(Title UI of the rob)**
-* *TextUI **(Text UI of the rob)**
-* *TypeRob = "items or money" **(Type of rob, if you want to give items or experience)**
+* MaxPolice **(Max police for rob this theft)**
+* Reward **(Reward, if the type of rob is money)**
+* Time **(Time for get the reward after theft)**
+* Cooldown **(Cooldown for rob again)**
+* TitletUI **(Title UI of the rob)**
+* TextUI **(Text UI of the rob)**
+* TypeRob = "items or money" **(Type of rob, if you want to give items or experience)**
 ** Here you can add the items you want, and you can duplicate it**
 * *items
 * *items
