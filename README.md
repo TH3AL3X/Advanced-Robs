@@ -11,11 +11,24 @@ To use this plugin requires the Uconomy, Advanced Zones, and a workshop UI mod
 * Workshop UI: [Rob UI]: https://steamcommunity.com/sharedfiles/filedetails/?id=1765561076
 * Workshop UI2: [Reward UI]: https://steamcommunity.com/sharedfiles/filedetails/?id=1768031090
 
+## Configuration AdvancedZones
+*MaxPolice **(Max police for rob this theft)**
+*Reward **(Reward, if the type of rob is money)**
+*Time **(Time for get the reward after theft)**
+*Cooldown **(Cooldown for rob again)**
+*TitletUI **(Title UI of the rob)**
+*TextUI **(Text UI of the rob)**
+*TypeRob = "items or money" **(Type of rob, if you want to give items or experience)**
+** Here you can add the items you want, and you can duplicate it**
+*items
+*items
+
 ## Installation
 * Create the zone with all nodes **(/zone add "Name Rob")**
 * Create all nodes **(/zone add node "Name Rob")**, make a rectangle
 * Add parameters to the rob **(/addrob "Name Rob")**
 * Add flag to the zone **(/zone add flag "Name Rob" robs)**
+* For edit parameters go to the "AdvancedZones Directory, there you have all your stuff for edit the rob"
 Then the configuration of the messages is in the plugin directory
 
 # Configuration Example
