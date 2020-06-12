@@ -30,10 +30,10 @@ Then the configuration of the messages is in the plugin directory
             *iconwarnwithoutui = "https://tuc.vampyrium.com/warn/triangle_1024.png"; **(Icon Message)**
             
 # Translations
-                    *{"startrob", "(color=red)[AdvancedRobs] {0} IS TRYING TO ROB THE {1}(/color)"}, **({0} is the name of the player who is trying to rob, {1} rob name)**
-                    *{"finishrob", "(color=red)[AdvancedRobs] {0} HAS STOLEN CORRECTLY THE {1} THEFT(/color)"},
-                    *{"leaverob", "(color=red)[AdvancedRobs] {0} IS OUT OF THE {1} THEFT AREA(/color)"},
-                    *{"CooldownRob", "(color=yellow)[AdvancedRobs](/color) (color=red)Cooldown for rob again {0}(/color)"},
-                    *{"NoPermissions", "[AdvancedRobs] You don't have permissions to rob this"},
-                    *{"NoPolices", "(color=yellow)[AdvancedRobs](/color) (color=red)To be able to theft, there must be a maximum of {0} polices(/color)"},
-                    *{"EnterPolice", "(color=yellow)[AdvancedRobs](/color) (color=red)You're a cop, you just got into the robbery(/color)"}
+             *{"startrob", "(color=red)[AdvancedRobs] {0} IS TRYING TO ROB THE {1}(/color)"}, **({0} is the name of the player who is trying to rob, {1} rob name)**
+             *{"finishrob", "(color=red)[AdvancedRobs] {0} HAS STOLEN CORRECTLY THE {1} THEFT(/color)"},
+             *{"leaverob", "(color=red)[AdvancedRobs] {0} IS OUT OF THE {1} THEFT AREA(/color)"},
+             *{"CooldownRob", "(color=yellow)[AdvancedRobs](/color) (color=red)Cooldown for rob again {0}(/color)"},
+             *{"NoPermissions", "[AdvancedRobs] You don't have permissions to rob this"},
+             *{"NoPolices", "(color=yellow)[AdvancedRobs](/color) (color=red)To be able to theft, there must be a maximum of {0} polices(/color)"},
+             *{"EnterPolice", "(color=yellow)[AdvancedRobs](/color) (color=red)You're a cop, you just got into the robbery(/color)"}
