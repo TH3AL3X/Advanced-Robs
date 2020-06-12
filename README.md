@@ -24,6 +24,8 @@ To use this plugin requires the Uconomy, Advanced Zones, and a workshop UI mod
 * *items
 
 ## Installation
+This is a old video of installation, but is similar
+[![](http://img.youtube.com/vi/6j4zgd8Jlgw/0.jpg)](http://www.youtube.com/watch?v=6j4zgd8Jlgw"")
 * Create the zone with all nodes **(/zone add "Name Rob")**
 * Create all nodes **(/zone add node "Name Rob")**, make a rectangle
 * Add parameters to the rob **(/addrob "Name Rob")**
